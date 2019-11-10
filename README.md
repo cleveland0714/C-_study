@@ -14,4 +14,6 @@ C++の基本、文字と数値など
 ## Lesson6  
 for文、while文、ネスト、breakなど  
 ## Lesson7  
-関数
+関数  
+## Lesson8  
+ポインタ   
