@@ -16,4 +16,5 @@ for文、while文、ネスト、breakなど
 ## Lesson7  
 関数  
 ## Lesson8  
-ポインタ   
+ポインタ  
+なんもわからんかった  
